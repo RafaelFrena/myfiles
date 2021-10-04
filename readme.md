@@ -61,30 +61,35 @@ Inside the main section there are containers styled as white blocks in which the
 
 #### Main color
 Blue Jeans #5dadec
+
 ![bluejeans](https://github.com/RafaelFrena/myfiles/blob/main/bluejeans.PNG?raw=true)
 
 Use: Sidebar background and possibly some other thing that require highlight.
 
 #### Dark color
 Jet #35353a
+
 ![bluejeans](https://github.com/RafaelFrena/myfiles/blob/main/jet.PNG?raw=true)
 
 Use: icons, borders and text.
 
 #### Bright color
 Cultured #fafafa
+
 ![bluejeans](https://github.com/RafaelFrena/myfiles/blob/main/cultured.PNG?raw=true)
 
 Use: main background for any sort of content.
 
 #### Background color
 Gainsboro #dfe3e8
+
 ![bluejeans](https://github.com/RafaelFrena/myfiles/blob/main/gainsboro.PNG?raw=true)
 
 Use: Main section background.
 
 #### Alt background color
 Dark liver #47474b
+
 ![dark-liver](https://github.com/RafaelFrena/myfiles/blob/main/dark-liver.PNG?raw=true)
 
 Use: Main section background.
