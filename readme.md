@@ -5,7 +5,7 @@ The especifications should always be considered, although there's always room fo
 
 > The platform is not the content, but the presentation of the content published by the content creators. That being said, it has to seek neutrality.
 
-## Good UX Practices to follow (inspired by [this valuable text](https://www.usability.gov/what-and-why/user-interface-design.html)):
+## Good UX Practices to follow:
 
 * Keep simple;
 * Use common elements and conventions;
@@ -14,6 +14,8 @@ The especifications should always be considered, although there's always room fo
 * Use typography to create hierarchy;
 * Constantly communicate the user of what is happening;
 * Remove the burden from the user by setting defaults (ex.: autofill forms, give priority to the most used functionalities, et cetera).
+
+Inspired by [this valuable text](https://www.usability.gov/what-and-why/user-interface-design.html)
 
 ## Layout
 
@@ -72,6 +74,7 @@ Inside the main section there are containers styled as white blocks in which the
 
 #### Main color
 Blue Jeans #5dadec
+<span style="color:#5dadec">some *blue* text</span>
 
 ![bluejeans](https://github.com/RafaelFrena/myfiles/blob/main/bluejeans.PNG?raw=true)
 
