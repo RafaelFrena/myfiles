@@ -19,6 +19,8 @@ Inspired by [this valuable text](https://www.usability.gov/what-and-why/user-int
 
 ## Layout
 
+![layout](https://github.com/RafaelFrena/myfiles/blob/main/decola-wireframe.png?raw=true)
+
 The whole aplication follows a simple and - as far as possible - immutable structure composed by 3 main components:
 
 ### Header
