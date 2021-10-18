@@ -15,8 +15,6 @@ The especifications should always be considered, although there's always room fo
 * Constantly communicate the user of what is happening;
 * Remove the burden from the user by setting defaults (ex.: autofill forms, give priority to the most used functionalities, et cetera).
 
-Inspired by [this valuable text](https://www.usability.gov/what-and-why/user-interface-design.html)
-
 ## Layout
 
 ![layout](https://github.com/RafaelFrena/myfiles/blob/main/decola-wireframe.png?raw=true)
@@ -134,3 +132,7 @@ Description
 ## Accessibility
 
 Description
+
+### References and deeper content
+
+UX design guidance | https://www.usability.gov/what-and-why/user-interface-design.html
